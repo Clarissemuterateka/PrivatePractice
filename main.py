@@ -15,7 +15,7 @@
 #
 # # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-City = input("What city are you from? :")
+City = input("What city are you from? ::")
 print(City)
 print(type(City))
 
